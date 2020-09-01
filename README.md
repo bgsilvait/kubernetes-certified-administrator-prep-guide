@@ -10,7 +10,7 @@ Please, feel free to place a pull request whether something is not up-to-date, s
 
 # Exam
 
-The exam is kind of "put your hands on", where you have 24 problems to fix within 180 minutes. Based on that, you have ~7.5 minutes per problem, where usually you will spend more time in some problems than others.
+The exam is kind of "put your hands on", where you have some problems to fix within 120 minutes. Based on the previous version(180 Minutes for 24 questions), you had ~7.5 minutes per problem, where usually you will spend more time in some problems than others.
 
 My tip: Spend your time wisely. Use the Notebook feature (provided in exam's UI) to keep track of your progress, where you might take notes of each question, put some annotations in order to help you. Additionally, don't get stuck, move to the next problem, and take it back when you finish all the other problems.
 
